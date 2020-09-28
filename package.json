@@ -29,7 +29,7 @@
   "homepage": "https://github.com/kyranet/serialized-tags#readme",
   "devDependencies": {
     "@types/tape": "^4.2.33",
-    "eslint": "^6.0.1",
+    "eslint": "^7.10.0",
     "eslint-config-klasa": "github:dirigeants/klasa-lint",
     "tape": "^4.9.2",
     "terser-webpack-plugin": "^2.0.0",
